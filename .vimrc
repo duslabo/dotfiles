@@ -12,6 +12,8 @@ set smartindent         " Set intent smartly
 set autoread            " Set to auto read when a file is changed from the outside
 set undolevels=500      " use many muchos levels of undo
 
+" Insert date autocomplete
+iab <expr> date strftime("%b %d, %Y")   
 
 " Optional
 " set nowrap            " don't wrap lines (Uncomment if required)
