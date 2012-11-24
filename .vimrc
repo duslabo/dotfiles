@@ -1,3 +1,4 @@
+"File-name - .vimrc 
 " Required
 set number              " Show line numbers   
 set ic                  " Ignore Case, /SEARCHING
